@@ -1,1 +1,3 @@
 # Tail-prosthetic
+So this is a fairly simple tail that I designed to be similar to a prosthetic finger or appendage. So I am going to 3d print this, and I am going to control it with EMG. I am still yet to construct it, so I will give more infor on wiring later, but right now, your are going to need a servo motor, some elastic, some fishing line, the 3d printed parts, m3 screws and nuts. and any the rest of the electronics, which I will add here, after it is actually assembled. So I have all of the .step files, where and your just have to joing the segments with a screw and nut. I also added a video for how the tail should work after it is assembled, so that also might be helpful.
+# Pics (I will add more pictures after it is completely assembled.)
